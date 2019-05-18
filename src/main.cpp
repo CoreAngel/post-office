@@ -1,7 +1,7 @@
 #include <iostream>
 
-#include "./src/headers/PostOffice.h"
-#include "./src/headers/exceptions.h"
+#include "./headers/PostOffice.h"
+#include "./headers/exceptions.h"
 
 int main() {
 
